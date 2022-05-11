@@ -1,14 +1,14 @@
 {
-  "name": "aquabot",
+  "name": "chintubot",
   "version": "1.0.1",
-  "description": "vihanga wa bot happy for whatsapp.",
+  "description": "chintu bot happy for whatsapp.",
   "main": "/aquabot/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sanuwaofficial/AquaBot.git"
+    "url": "git+https://github.com/MhmdMukarram/CHINTU-V3.git"
   },
   "keywords": [
     "whatsapp",
@@ -26,9 +26,9 @@
   "developer": "vihanga",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/sanuwaofficial/AquaBot/issues"
+    "url": "https://github.com/MhmdMukarram/CHINTU-V3/issues"
   },
-  "homepage": "https://github.com/sanuwaofficial/AquaBot",
+  "homepage": "https://github.com/MhmdMukarram/CHINTU-V3",
   "dependencies": {
    
     "aquabot": "^1.0.0",
